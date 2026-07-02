@@ -14,4 +14,4 @@ A2：重命名为HxNames.lst，放置在GARbro/GameData文件夹下即可
 
 **Q3：我想要构建自己的HxNames.lst！**
 
-A3：参见[MLChinoo/hxv4_deobf_tools](https://github.com/MLChinoo/hxv4_deobf_tools)。
+A3：参见[MLChinoo/hxv4_unhash_tools](https://github.com/MLChinoo/hxv4_unhash_tools)。
